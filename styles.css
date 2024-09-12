@@ -1,0 +1,23 @@
+/* Google Font */
+body {
+    font-family: 'Space Grotesk', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #333;
+}
+
+/* Navbar Styles */
+.header {
+    background-color: #fff;
+    padding: 20px 0;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1);
+}
+
+/* More styles for other sections like Hero, About, Services, Portfolio, Contact, etc. */
+/* Include animations, hover effects, etc., to mimic the original site design */
